@@ -13,8 +13,10 @@ Ensure you have Docker installed on your machine. You can download and install D
 # Instructions
 ## Clone the repository (if applicable):
 
-`git clone https://github.com/dcanogi/Docker-Hello-World.git
-cd Docker-Hello-World`
+```
+git clone https://github.com/dcanogi/Docker-Hello-World.git
+cd Docker-Hello-World
+```
 
 ## Build the Docker image:
 
